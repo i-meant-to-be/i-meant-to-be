@@ -1,5 +1,3 @@
-<img src="assets/profile.webp" style="width: 200px; height: 200px; border-radius: 100%; object-fit: cover; margin-bottom: 50px;" />
-
 # Shawn Kang
 
 _🏷️ also known as Siun Kang._ <br />
