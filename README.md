@@ -44,6 +44,7 @@ _📱 looking to start my career as an Android developer._
 
 ## ✉️ Contacts
 
-- [Resume (Notion)](https://i-meant-to-be.notion.site/29143b6991c9808b871cecbe558ec0c0?pvs=74)
+- [Resume (PDF)](https://drive.google.com/file/d/1l22w_FBwye94eqku0oweoPkbySrDBd6y/view?usp=sharing)
+- [Portfolio (Notion)](https://i-meant-to-be.notion.site/29143b6991c9808b871cecbe558ec0c0?pvs=74)
 - [Blog (velog.io)](https://velog.io/@i_meant_to_be)
 - [E-Mail](mailto:shineksu813@outlook.com)
